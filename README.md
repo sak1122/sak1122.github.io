@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Script-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
 
-To know more about my work experiences, projects, extra curricular activities, and more cool stuff, feel free to check out my [website](https://shivanishimpi.github.io/)
+To know more about my work experiences, projects, extra curricular activities, and more cool stuff, feel free to check out my [website](https://sak1122.github.io/)
 
 
 ### Reach out
